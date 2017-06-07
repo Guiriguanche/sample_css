@@ -1,0 +1,876 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bl",
+				"block"
+			],
+			[
+				"height",
+				"height"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"bi",
+				"bio-copy"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"marg",
+				"margin-inline"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"b",
+				"body"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"soc",
+				"social-link"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"widt",
+				"width"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"ex",
+				"exec-bio"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"exe",
+				"exec-trio"
+			],
+			[
+				"lightg",
+				"lightgoldenrodyellow"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"grav",
+				"gravatar_url"
+			],
+			[
+				"bord",
+				"border-box"
+			],
+			[
+				"valid",
+				"validates"
+			],
+			[
+				"has",
+				"has_secure_password\t(Gemfile)"
+			],
+			[
+				"dup",
+				"duplicate_user"
+			],
+			[
+				"us",
+				"user"
+			],
+			[
+				"assert",
+				"assert_not"
+			],
+			[
+				"Use",
+				"User.new\t(#Resumen creación app con Rails.md)"
+			],
+			[
+				"sign",
+				"signup_path\t(user_controller_test.rb)"
+			],
+			[
+				"cont",
+				"contact_path"
+			],
+			[
+				"con",
+				"contact_path\t(static_pages_controller_test.rb)"
+			],
+			[
+				"ab",
+				"about_path\t(static_pages_controller_test.rb)"
+			],
+			[
+				"roo",
+				"root_path"
+			],
+			[
+				"hel",
+				"help_path\t(static_pages_controller_test.rb)"
+			],
+			[
+				"root",
+				"root_path\t(static_pages_controller_test.rb)"
+			],
+			[
+				"line-hei",
+				"line-height"
+			],
+			[
+				"font-siz",
+				"font-size"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"res",
+				"resize"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"na",
+				"navbar"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"ful",
+				"full_title\t(application_helper.rb)"
+			],
+			[
+				"page",
+				"page_title"
+			],
+			[
+				"base",
+				"base_title"
+			],
+			[
+				"app",
+				"application"
+			],
+			[
+				"mic",
+				"microposts/1\t(microposts_controller.rb)"
+			],
+			[
+				"ap",
+				"application"
+			],
+			[
+				"zsh",
+				"zshenv"
+			],
+			[
+				"_",
+				"_genTriads"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 3481,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/pd/Documents/Programming/RubyPrograms/#Resumen creación app con Rails.md",
+			"settings":
+			{
+				"buffer_size": 6530,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/C.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/C.sublime-build",
+					"Run -Wall"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				"Syntax Check"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/C.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/C.sublime-build",
+					"Run -Wall"
+				],
+				[
+					"Packages/User/Marked.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Marked.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "gi",
+		"selected_items":
+		[
+			[
+				"gi",
+				"Git: Amend Commit"
+			],
+			[
+				"",
+				"CSV: Delete empty trailing columns"
+			],
+			[
+				"instala",
+				"Package Control: Install Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"g s",
+				"Git: Status"
+			],
+			[
+				"g c",
+				"Git: Checkout Tag"
+			],
+			[
+				"g a",
+				"Git: Add All"
+			],
+			[
+				"rub",
+				"RuboCop: Check current file"
+			],
+			[
+				"gc",
+				"Git: Commit"
+			],
+			[
+				"git lo",
+				"Git: Log All"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add All"
+			],
+			[
+				"git l",
+				"Git: Log All"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"g",
+				"Git: Status"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"list",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"gutt",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"an",
+				"ANF: New File"
+			],
+			[
+				"pack in pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pack re pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"upgrade ",
+				"Package Control: Upgrade Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 223.0,
+		"history":
+		[
+			"sublime.log_input(True)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/pd/Downloads/purecsv-ACC CANARIAS_CMPI_PREG_20170403.csv",
+		"/Users/pd/Documents/work/Contactos.md",
+		"/Users/pd/Documents/Programming/RubyPrograms/#Resumen creación app con Rails.md",
+		"/Users/pd/Documents/Programming/RubyPrograms/marketplace/app/models/user.rb",
+		"/Users/pd/Documents/Programming/RubyPrograms/marketplace/app/models/supplier.rb",
+		"/Users/pd/Documents/Programming/RubyPrograms/marketplace/test/models/supplier_test.rb",
+		"/Users/pd/Downloads/preguntas que faltan.csv",
+		"/Users/pd/Downloads/tabula-ACC CANARIAS_CMPI_PREG_20170403.csv",
+		"/Users/pd/Documents/work/WANTUDU.md",
+		"/Users/pd/Documents/Programming/RubyPrograms/marketplace/db/schema.rb",
+		"/Users/pd/Documents/Programming/RubyPrograms/marketplace/app/controllers/suppliers_controller.rb",
+		"/Users/pd/Documents/Programming/RubyPrograms/marketplace/app/views/static_pages/home.html.erb",
+		"/Users/pd/Documents/Programming/RubyPrograms/marketplace/app/views/layouts/_header.html.erb",
+		"/Users/pd/Documents/Programming/RubyPrograms/marketplace/app/helpers/suppliers_helper.rb",
+		"/Users/pd/Documents/work/Economía Azul/Marketplace/Entrevistas.md",
+		"/Users/pd/Dropbox/Apps/Editorial/Design Thinking.md",
+		"/Users/pd/Dropbox/Apps/Editorial/Feedback DU1.md",
+		"/Users/pd/dev-rails.sh",
+		"/Users/pd/Documents/Programming/RubyPrograms/sample_app/app/views/static_pages/home.html.erb",
+		"/Users/pd/Documents/Programming/RubyPrograms/sample_app/app/views/users/new.html.erb",
+		"/Users/pd/Documents/Programming/RubyPrograms/sample_app/test/controllers/users_controller_test.rb",
+		"/Users/pd/Documents/Programming/RubyPrograms/sample_app/app/assets/stylesheets/custom.scss",
+		"/Users/pd/Documents/Programming/RubyPrograms/sample_app/db/migrate/20170307175205_add_index_to_users_email.rb",
+		"/Users/pd/Documents/Programming/RubyPrograms/sample_app/test/fixtures/users.yml",
+		"/Users/pd/Documents/Programming/RubyPrograms/sample_app/config/routes.rb",
+		"/Users/pd/Documents/Programming/RubyPrograms/sample_app/db/schema.rb",
+		"/Users/pd/Documents/Programming/RubyPrograms/sample_app/tmp/cache/assets/sprockets/v3.0/is/isd231c9sT2ntIJY7oNn0HLY5c0eJps1tGDV4UvUWRA.cache",
+		"/Users/pd/Documents/Programming/RubyPrograms/sample_app/app/views/static_pages/contact.html.erb",
+		"/Users/pd/Documents/Programming/RubyPrograms/sample_app/app/views/layouts/_footer.html.erb",
+		"/Users/pd/Documents/Programming/RubyPrograms/sample_app/app/helpers/application_helper.rb",
+		"/Users/pd/Documents/Programming/RubyPrograms/sample_app/test/helpers/application_helper_test.rb",
+		"/Users/pd/Documents/Programming/RubyPrograms/sample_app/test/integration/site_layout_test.rb",
+		"/Users/pd/Documents/Programming/RubyPrograms/sample_app/test/controllers/user_controller_test.rb",
+		"/Users/pd/Documents/Programming/RubyPrograms/sample_app/app/controllers/static_pages_controller.rb",
+		"/Users/pd/Documents/Programming/RubyPrograms/sample_app/test/test_helper.rb",
+		"/Users/pd/Documents/Programming/RubyPrograms/sample_app/test/controllers/static_pages_controller_test.rb",
+		"/Users/pd/Documents/Programming/RubyPrograms/sample_app/app/views/static_pages/help.html.erb",
+		"/Users/pd/Documents/Programming/RubyPrograms/sample_app/app/views/static_pages/about.html.erb",
+		"/Users/pd/Documents/Programming/RubyPrograms/sample_app/app/views/layouts/_header.html.erb",
+		"/Users/pd/Documents/Programming/RubyPrograms/sample_app/Gemfile",
+		"/Users/pd/Documents/Programming/RubyPrograms/sample_app/app/views/layouts/_rails_default.html.erb",
+		"/Users/pd/Documents/Programming/RubyPrograms/sample_app/app/views/layouts/_shim.html.erb",
+		"/Users/pd/Library/Application Support/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+		"/Users/pd/Documents/Programming/RubyPrograms/sample_app/example_user.rb",
+		"/Users/pd/Documents/Programming/RubyPrograms/sample_app/.gitignore",
+		"/Users/pd/Documents/Programming/RubyPrograms/sample_app/Guardfile",
+		"/Users/pd/Documents/Programming/RubyPrograms/sample_app/GuardfileOld",
+		"/Users/pd/Documents/Programming/RubyPrograms/sample_app/app/views/layouts/application.html.erb",
+		"/Users/pd/Documents/Programming/RubyPrograms/sample_app/test/helpers/test_helper.rb",
+		"/Users/pd/Documents/Programming/RubyPrograms/sample_app/app/controllers/application_controller.rb",
+		"/Users/pd/.gitignore_global",
+		"/Users/pd/Documents/Programming/RubyPrograms/sample_app/README.md",
+		"/Users/pd/Documents/Programming/RubyPrograms/toy_app/app/views/users/show.html.erb",
+		"/Users/pd/Documents/Programming/RubyPrograms/toy_app/app/models/user.rb",
+		"/Users/pd/Documents/Programming/RubyPrograms/toy_app/app/models/application_record.rb",
+		"/Users/pd/Documents/Programming/RubyPrograms/toy_app/app/models/micropost.rb",
+		"/Users/pd/Documents/Programming/RubyPrograms/toy_app/app/controllers/microposts_controller.rb",
+		"/Users/pd/Documents/Programming/RubyPrograms/toy_app/config/routes.rb",
+		"/Users/pd/Documents/Programming/RubyPrograms/toy_app/app/controllers/application_controller.rb",
+		"/Users/pd/.zshrc",
+		"/Users/pd/sample.yml",
+		"/Users/pd/.zshenv",
+		"/Users/pd/Documents/AENA/Oposiciones/PrácticasENAIRE/FASE1 Valoración Curricular/texto email.txt",
+		"/Users/pd/Desktop/sample_app/app/controllers/application_controller.rb",
+		"/Users/pd/Desktop/sample_app/Gemfile",
+		"/Users/pd/.bash_profile",
+		"/Users/pd/.gemrc",
+		"/Users/pd/dotfiles/.make.sh",
+		"/Users/pd/.tmux.conf",
+		"/tmp/zshFcgJID",
+		"/tmp/zshTTz2dT",
+		"/tmp/zshbh9PD6",
+		"/tmp/zshMAKBOO",
+		"/tmp/zshSx3iaB",
+		"/tmp/zshq4vdMe",
+		"/tmp/zshu5pHrC",
+		"/tmp/zshkrBLct",
+		"/Users/pd/.profile",
+		"/Users/pd/Documents/AENA/Oposiciones/Temario/40SP(2016)/DudasCasosPracticos40SP.md",
+		"/Users/pd/Documents/AENA/Oposiciones/Temario/40SP(2016)/40 SUPUESTOS PRÁCTICOS.md",
+		"/Users/pd/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/pd/Library/Application Support/Sublime Text 3/Packages/Anaconda/README.md",
+		"/Users/pd/Downloads/Stories_of_Your_Life_and_Others.mobi",
+		"/Users/pd/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/pd/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/pd/neural-style/neural_style.lua",
+		"/Users/pd/Dropbox/Direcciones MAC",
+		"/Applications/Sublime Text.app/Contents/Info.plist",
+		"/Library/PreferencePanes/PenTablet.prefPane/Contents/Info.plist",
+		"/Users/pd/Library/Application Support/Karabiner/private.xml",
+		"/Users/pd/Documents/private.xml",
+		"/Users/pd/Dropbox/Direcciones MAC.md",
+		"/Users/pd/Documents/Current status.md",
+		"/Volumes/BambooSetup/BambooSetup.app/Contents/Info.plist",
+		"/Volumes/EFI/EFI/CLOVER/config.plist",
+		"/Users/pd/Documents/prueba.md",
+		"/Users/pd/Documents/imessage fix"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 138.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".com/\"",
+			"<li",
+			"<div>",
+			"</p>",
+			"<p>",
+			"twitter",
+			"href=\"http://twitter",
+			"trio-box",
+			"bio-box",
+			"<div",
+			" style=\"color: green;\"",
+			" style=\"color: red;\"",
+			" style=\"border: 1px solid black;\"",
+			"Aproximación",
+			"Meteo-Altimetría",
+			",0",
+			",,",
+			"\",,",
+			",,",
+			"\",,\"",
+			"Respuesta correcta:,",
+			",,\"R",
+			"Respuesta",
+			"R3",
+			"R2",
+			"R1",
+			" Tema: ",
+			"P: ",
+			"R3",
+			"R1",
+			"Anexo",
+			"\",,\"",
+			"R1",
+			"P:",
+			"Anexo",
+			"P: ",
+			",\n,R",
+			"\n\"\",,",
+			",,,$",
+			"^\"\",,R",
+			"Correcta:,,,(\\d),",
+			"Correcta:,,,,",
+			"Correcta:,,,",
+			"Respuesta Correcta:,,",
+			"Tema:,",
+			" Módulo:",
+			"Anexo: ",
+			"P:,",
+			"Módulo:",
+			"RCA",
+			"ó",
+			"rails.png",
+			"User",
+			"user",
+			"reservas",
+			"user",
+			"User",
+			"user",
+			"Customer",
+			"User",
+			"get",
+			"fff",
+			"#777",
+			"Ruby on Rails Tutorial Sample App",
+			"sql",
+			"routes",
+			"torch",
+			"PATH",
+			"SSL",
+			"PATH",
+			"source",
+			"try",
+			"(ántes",
+			"###",
+			"this",
+			"break",
+			";",
+			"let",
+			"        ",
+			"       ",
+			"      ",
+			"     ",
+			"    ",
+			"   ",
+			"  ",
+			"          ",
+			"      ",
+			"this.",
+			"      ",
+			"let",
+			";",
+			"this",
+			"    //",
+			"//",
+			"key",
+			"dict",
+			"genTriad",
+			";",
+			"let",
+			"genSte",
+			"let",
+			";",
+			"        ",
+			"       ",
+			"      ",
+			"//",
+			"dominance",
+			"        ",
+			", ",
+			",0",
+			",",
+			"this",
+			" :",
+			": [",
+			": t",
+			": '",
+			": {",
+			"r",
+			"{",
+			" {",
+			"{\n",
+			" {",
+			"PATH",
+			"ql"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"Aproximación",
+			"Meteo-Altimetría",
+			" ",
+			"",
+			",R",
+			",",
+			",R",
+			"Correcta:,$1,,",
+			"Correcta:,%1,,",
+			"Correcta:,0,,",
+			"Respuesta Correcta:,,,",
+			"",
+			"Supplier",
+			"supplier",
+			"Supplier",
+			"supplier",
+			"$light-gray",
+			"#{@base_title}",
+			"(ántes"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3481,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								554,
+								584
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 424.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/pd/Documents/Programming/RubyPrograms/#Resumen creación app con Rails.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6530,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 949.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 44.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 154.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 178.0
+	},
+	"pinned_build_system": "",
+	"project": "sample_css.sublime-project",
+	"replace":
+	{
+		"height": 82.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"packag",
+				"Package Control Messages"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 320.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
